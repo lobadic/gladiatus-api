@@ -1,4 +1,4 @@
-# gladiatus-helper
+# gladiatus-api
 
 You have to add 'character.py', example is below:
 
